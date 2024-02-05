@@ -10,3 +10,6 @@ The objective of using both mobile crowdsensing and static sensing modalities is
 and overall air quality. This project develops data analysis methods and implements them using the given datasets.
 
 Adhering to the Stanford Honor Code, the code in this repository is not meant to be used for future projects or assignments.
+
+![lpf](https://github.com/patron3599/CEE254/assets/114704259/3af76190-4860-4231-9971-12a70182e79e)
+
