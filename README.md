@@ -8,3 +8,5 @@ quality information. The data provided are collected from realworld deployments 
 are attached to a large number of mobile vehicles and collect data while moving around the cities with these vehicles), as well as static sensors. 
 The objective of using both mobile crowdsensing and static sensing modalities is to provide more robust and ubiquitous measurements of PM 2.5, traffic, 
 and overall air quality. This project develops data analysis methods and implements them using the given datasets.
+
+Adhering to the Stanford Honor Code, the code in this repository is not meant to be used for future projects or assignments.
